@@ -1,4 +1,4 @@
-from random import randint
+#from random import randint
 
 def generate_number(difficulty):
     return randint(1, int(difficulty))
